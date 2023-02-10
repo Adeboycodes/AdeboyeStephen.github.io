@@ -1,0 +1,158 @@
+body {
+    background-color: hsl(216, 12%, 8%);
+    width: auto;
+    padding: 0%;
+    margin: 0%;
+    border: none;
+}
+
+section{
+    background-color: hsl(213, 19%, 18%);
+    padding-top: 2px;
+    padding-bottom: 40px;
+    margin: 15%;
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.box1 button{
+    background-color: hsl(213, 19%, 18%);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    text-align: center;
+    display: flex;
+    border-radius: 70%;
+}
+
+
+
+.container h1 {
+    color: white;
+    text-align: center;
+
+
+}
+
+.container p {
+    color: hsl(216, 12%, 54%);
+}
+
+#main box2 p {
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+
+
+}
+
+
+.box3 {
+
+}
+
+.button-container {
+    border: none;
+    color: white;
+    padding: 20px;
+    justify-content: space-between;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+}
+
+.button1 {
+    background-color: hsl(213, 19%, 18%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100%;
+    
+}
+
+.button2 {
+    background-color: hsl(213, 19%, 18%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100%;
+    
+}
+
+.button3 {
+    background-color: hsl(213, 19%, 18%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100%;
+  
+}
+
+.button4 {
+    background-color: hsl(216, 12%, 54%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100%;
+    
+
+}
+
+.button5 {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100%;
+
+    
+
+}
+
+
+.container button {
+    
+    background-color: white;
+    border: none;
+    color: orange;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 4px 2px;
+    text-align: center;
+    padding: 10px 100px;
+    cursor: pointer;
+}
+
+
+main {
+    background-color: hsl(213, 19%, 18%);
+    padding-top: 2px;
+    padding-bottom: 70px;
+    margin: 15%;
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.img-container {
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+.button-1 button {
+    background-color: hsl(213, 19%, 18%);
+    color: orange;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.text-container h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.text-container p {
+    color: hsl(216, 12%, 54%);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
